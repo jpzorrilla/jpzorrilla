@@ -2,7 +2,7 @@
 
 ### Hey there 👋
 
-<p align="justify">My name is Juan Pablo Zorrilla. I'm an economist and I have a passion for data science, agile principles and lifelong learning. In the same way as this personal GitHub, I am permanently in construction by means of learning new things. Apart from learning code for improve machine learning models, I also maintain a blog - you can find my articles at [El Analista Económico-Financiero](https://elanalistaeconomicofinanciero.blogspot.com/)</p>
+My name is Juan Pablo Zorrilla. I'm an economist and I have a passion for data science, agile principles and lifelong learning. In the same way as this personal GitHub, I am permanently in construction by means of learning new things. Apart from learning code for improve machine learning models, I also maintain a blog - you can find my articles at [El Analista Económico-Financiero](https://elanalistaeconomicofinanciero.blogspot.com/)
 
 <!--
 **jpzorrilla/jpzorrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
