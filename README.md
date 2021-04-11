@@ -18,10 +18,6 @@ My name is Juan Pablo Zorrilla. I'm an economist and I have a passion for data s
 ![](https://img.shields.io/badge/Tool-Apache%20Spark-informational?style=flat&logo=Apache%20Spark&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&amp;logo=Git&amp;logoColor=white&amp;color=blue)
-![](https://img.shields.io/badge/Tool-Github-informational?style=flat&amp;logo=GitHub&amp;logoColor=white&amp;color=blue)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blue)
 
 Please feel free to contact me on [Twitter](https://twitter.com/jp_economics) or [LinkedIn](https://www.linkedin.com/in/juan-pablo-zorrilla-salgador-7806784b/)
