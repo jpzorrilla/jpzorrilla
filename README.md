@@ -1,5 +1,3 @@
-![Header](https://github.com/jpzorrilla/jpzorrilla/blob/main/Grey_B.png "Header")
-
 ### Hey there 👋
 
 My name is Juan Pablo Zorrilla. I'm an economist and I have a passion for data science, agile principles and lifelong learning.
