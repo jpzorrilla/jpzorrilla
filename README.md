@@ -1,14 +1,21 @@
-### Hey there 👋
+# Juan Pablo Zorrilla - *Data Scientist*
 
-My name is Juan Pablo Zorrilla. I'm an economist and I have a passion for data science, agile principles and lifelong learning.
+Economist with passion for data science and emerging technologies. My main goal is helping organizations keep up with changes, mitigate riks, and create value through improved data-driven and evidence-based decision making.
 
-🌱 I’m currently learning code with data for improving explainability in machine learning models. But in my free time I also maintain a blog - you can find my articles at [El Analista Económico-Financiero](https://elanalistaeconomicofinanciero.blogspot.com/)
+## Education
+- PhD in Financial Economics (ULL, Spain)
+- Master in Public Policy (UdelaR, Uruguay) 
+- Economist (UV, Mexico)
+ 
+## Technologies and Tools
+`Python`  `R`  `Solidity`  `SQL`  `Tableau`  `Power BI`
 
-## 🔧 Technologies & Tools
+## Hobbies and Interests
+- Fintech
+- Blockchain
+- Quantum Computing
+- Volunteer in *Red Global MX*
+- Blogger: [El Analista Económico-Financiero](https://elanalistaeconomicofinanciero.blogspot.com/)
 
-![](https://img.shields.io/badge/Language-SQL-informational?style=flat&logo=SQL&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=Python&amp;logoColor=white&amp;color=blue)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&amp;logo=R&amp;logoColor=white&amp;color=blue)
-![](https://img.shields.io/badge/Tool-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blue)
-
-Please feel free to contact me on [Twitter](https://twitter.com/jp_economics) or [LinkedIn](https://www.linkedin.com/in/juan-pablo-zorrilla-salgador-7806784b/)
+## Connect with me:
+[LinkedIn](https://www.linkedin.com/in/juan-pablo-zorrilla-salgador-7806784b/)
